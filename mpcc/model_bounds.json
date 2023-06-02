@@ -1,0 +1,19 @@
+{
+    "v_x_min"   :  0.0,
+    "v_x_max"   :  0.0,
+    "v_y_min"   :  0.0,
+    "v_y_max"   :  0.0,
+    "omega_min" :  0.0,
+    "omega_max" :  0.0,
+    "F_rx_min"  :  0.0,
+    "F_rx_max"  :  0.0,
+    "delta_min" :  0.0,
+    "delta_max" :  0.0,
+    
+    "ds_min"     : 0.0,
+    "ds_max"     : 0.0,
+    "dF_xr_min"  : 0.0,
+    "dF_xr_max"  : 0.0,
+    "ddelta_min" : 0.0,
+    "ddelta_max" : 0.0
+}
